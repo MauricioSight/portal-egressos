@@ -9,3 +9,8 @@
   - Pedro Manuel
   - Gabriel Laroche
   - Daniel Nascimento
+
+
+## Link do Dashboard
+ - Aluno - https://app.powerbi.com/view?r=eyJrIjoiZDQ0MjgyNGQtMDE5YS00YTU1LThiOTctZmRhNjJiZGY3Mjk5IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9
+ - Master - https://app.powerbi.com/view?r=eyJrIjoiMDEzN2RkYmItZjlhMy00NjNmLTliZDAtNmRkZmE0NGE2NWM5IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9
